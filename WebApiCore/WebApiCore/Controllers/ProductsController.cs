@@ -12,6 +12,7 @@ namespace WebApiCore.Controllers
     [Route("api/Products/")]
     public class ProductsController : Controller
     {
+
         // GET: api/Products
         [HttpGet]
         public Product Get()
