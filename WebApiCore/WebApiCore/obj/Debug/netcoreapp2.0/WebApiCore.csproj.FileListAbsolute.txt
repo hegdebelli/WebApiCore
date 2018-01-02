@@ -9,3 +9,14 @@ C:\Users\venkatesh.hegde\Documents\Visual Studio 2017\Projects\WebApiCore\WebApi
 C:\Users\venkatesh.hegde\Documents\Visual Studio 2017\Projects\WebApiCore\WebApiCore\obj\Debug\netcoreapp2.0\WebApiCore.dll
 C:\Users\venkatesh.hegde\Documents\Visual Studio 2017\Projects\WebApiCore\WebApiCore\obj\Debug\netcoreapp2.0\WebApiCore.pdb
 C:\Users\venkatesh.hegde\Documents\Visual Studio 2017\Projects\WebApiCore\WebApiCore\obj\Debug\netcoreapp2.0\WebApiCore.csprojResolveAssemblyReference.cache
+E:\@V\WebApiCore\WebApiCore\WebApiCore\obj\Debug\netcoreapp2.0\WebApiCore.csproj.CoreCompileInputs.cache
+E:\@V\WebApiCore\WebApiCore\WebApiCore\obj\Debug\netcoreapp2.0\WebApiCore.AssemblyInfoInputs.cache
+E:\@V\WebApiCore\WebApiCore\WebApiCore\obj\Debug\netcoreapp2.0\WebApiCore.AssemblyInfo.cs
+E:\@V\WebApiCore\WebApiCore\WebApiCore\bin\Debug\netcoreapp2.0\WebApiCore.deps.json
+E:\@V\WebApiCore\WebApiCore\WebApiCore\bin\Debug\netcoreapp2.0\WebApiCore.runtimeconfig.json
+E:\@V\WebApiCore\WebApiCore\WebApiCore\bin\Debug\netcoreapp2.0\WebApiCore.runtimeconfig.dev.json
+E:\@V\WebApiCore\WebApiCore\WebApiCore\bin\Debug\netcoreapp2.0\WebApiCore.dll
+E:\@V\WebApiCore\WebApiCore\WebApiCore\bin\Debug\netcoreapp2.0\WebApiCore.pdb
+E:\@V\WebApiCore\WebApiCore\WebApiCore\obj\Debug\netcoreapp2.0\WebApiCore.dll
+E:\@V\WebApiCore\WebApiCore\WebApiCore\obj\Debug\netcoreapp2.0\WebApiCore.pdb
+E:\@V\WebApiCore\WebApiCore\WebApiCore\obj\Debug\netcoreapp2.0\WebApiCore.csprojResolveAssemblyReference.cache
